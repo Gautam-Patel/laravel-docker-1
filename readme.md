@@ -36,3 +36,7 @@ To use Redis or MySQL, uncomment the service definition in the `docker-compose.y
 
 - Port number might be already in use, change from `8888` to another number in your `docker-compose.yml` file.
 - If you have any other issues, [report them](https://github.com/neoighodaro/laravel-docker/issues).
+
+## License
+
+[MIT LICENSE](https://github.com/Gautam-Patel/Multiple-Microservice-Run-on-Docker/blob/master/license.txt)
